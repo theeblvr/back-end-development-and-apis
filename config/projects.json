@@ -52,20 +52,22 @@
     "isResetEnabled": false,
     "blockingTests": true,
     "breakOnFailure": true,
-    "numberOfLessons": 1
+    "numberOfLessons": 1,
+    "completedDate": 1790027821304
   },
   {
     "id": 4,
     "dashedName": "build-a-web-server",
     "isIntegrated": false,
     "isPublic": true,
-    "currentLesson": 0,
+    "currentLesson": 59,
     "runTestsOnWatch": true,
     "seedEveryLesson": true,
     "isResetEnabled": false,
     "blockingTests": false,
     "breakOnFailure": false,
-    "numberOfLessons": 60
+    "numberOfLessons": 60,
+    "completedDate": 1790727862572
   },
   {
     "id": 5,
